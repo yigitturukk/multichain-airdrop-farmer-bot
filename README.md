@@ -1,6 +1,6 @@
 # Multi-Chain Airdrop Farmer & Quest Bot
 
-[![Stars](https://img.shields.io/github/stars/твой-ник/multichain-airdrop-farmer-bot)](https://github.com/твой-ник/multichain-airdrop-farmer-bot)
+[![Stars](https://img.shields.io/github/stars/yigitturukk/multichain-airdrop-farmer-bot)](https://github.com/yigitturukk/multichain-airdrop-farmer-bot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Stop wasting hours on manual DeFi tasks.** Let our bot farm airdrops for you 24/7. It automatically interacts with the hottest protocols, so you can accumulate points and qualify for massive token distributions. Perfect for OpenLedger, Lombard, Spacecoin, and more.
