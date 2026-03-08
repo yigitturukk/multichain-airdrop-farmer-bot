@@ -1,0 +1,40 @@
+wallet:
+  private_key: "YOUR_PRIVATE_KEY_HERE"  # For EVM chains
+  solana_private_key: "YOUR_SOLANA_PRIVATE_KEY_BASE58"  # For Solana
+  auto_approve: true
+
+chains:
+  ethereum:
+    enabled: true
+    rpc: "https://mainnet.infura.io/v3/YOUR_KEY"
+    gas_limit: 300000
+    max_gwei: 50
+  solana:
+    enabled: true
+    rpc: "https://api.mainnet-beta.solana.com"
+    priority_fee: 0.00001
+  arbitrum:
+    enabled: true
+    rpc: "https://arb1.arbitrum.io/rpc"
+    gas_limit: 500000
+
+campaigns:
+  openledger:
+    enabled: true
+    days: 30
+  lombard:
+    enabled: true
+    days: 10  # Season 2 ends March 18
+  spacecoin:
+    enabled: true
+    days: 14
+  genius_terminal:
+    enabled: true
+    days: 7
+
+settings:
+  tx_delay_min: 30
+  tx_delay_max: 180
+  max_daily_tx: 50
+  randomize_amounts: true
+  dashboard_port: 8080
